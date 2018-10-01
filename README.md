@@ -8,7 +8,7 @@
 下载完成后，请以管理员运行此脚本进行安装。
 
 原版安装脚本有在安装完毕后，无论成功与否会自动关闭，可能导致在安装失败时无法看到错误信息，因此你可以下载修改版安装脚本，它在安装结束后会显示“按任意键继续”，之后才会关闭。  
-<a href="https://raw.githubusercontent.com/ShreckYe/calypso-installation-china/master/run-calypso-installer-china-with-pause.bat" download> 修改版安装脚本下载</a>
+<a href="https://raw.githubusercontent.com/ShreckYe/calypso-installation-china/master/run-calypso-installer-china-with-pause.bat" download="run-calypso-installer-china-with-pause.bat">修改版安装脚本下载</a>
 ### 安装常见问题及解决方案
 若脚本在安装过程中输出红字，说明有一些组件安装不成功，请对照以下问题及解决方案解决。
 #### ADB
