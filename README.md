@@ -18,8 +18,8 @@
 #### Kindle驱动
 若在安装时出现“”，或者在Kindle Fire平板连接上并开启USB调试后，Calyspo启动后显示未检测到连接的设备，则说明Kindle的驱动程序没有正确安装。
 
-解决方案：下载Kindle驱动程序并安装。
-[Kindle驱动原版下载地址]
+解决方案：下载Kindle驱动程序并安装。  
+[Kindle驱动原版下载地址]  
 [Kindle驱动本GitHub仓库下载地址]
 #### 无法在应用商店中找到Cozmo
 若在亚马逊应用商店（App Store）中无法找到Cozmo应用程序，则说明您的登陆的亚马逊账号为中国区的账号，中国区无法下载Cozmo应用程序。
