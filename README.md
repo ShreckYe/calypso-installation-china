@@ -17,6 +17,13 @@
 解决方案：手动创建快捷方式。
 1. 将“C:\Users\ *用户名* \AppData\Local\Calypso\windows”中“*用户名*”替换为您的Windows用户名得到安装路径，若不知道用户名请尝试Administrator；
 2. 在文件浏览器中输入安装路径并回车进入文件夹，右键点击Calypso.cmd选择创建桌面快捷方式。
+#### 软件启动后不自动打开浏览器窗口
+在Windows 10以前版本的系统中，可能出现在打开Calypso软件以后，仅出现命令窗口而不出现浏览器窗口的情况，这时需要手动打开浏览器Calypso界面。
+
+解决方案：收到打开Chrome浏览器并输入Calypso网址。
+解决步骤：
+1. 打开Google Chrome浏览器；
+2. 在地址栏中输入“[http://127.0.0.1:43125/Calypso/index.html](http://127.0.0.1:43125/Calypso/index.html)”并敲击回车。
 #### ADB
 若在Kindle Fire平板连接上后，开启Calypso时出现“”，则说明Android的ADB没有正常启动，造成这种情况的原因一般是ADB的端口被其他应用程序占用了，这些应用程序一般是同样可以连接Android手机的手机管家类软件。
 
