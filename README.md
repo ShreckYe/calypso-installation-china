@@ -50,6 +50,7 @@
 3. 清空应用商店（App Store）的所有数据（Clear data）；
 4. 重新打开应用商店并搜索Cozmo。
 ## 更新
-
+更新操作与安装操作相同，运行“run-calypso-installer-china.bat”脚本即可。
 ### 更新常见问题及解决方案
 #### Mac系统下更新不成功
+Mac系统可能出现更新后启动Calypso并连接平板仍然显示Cozmo版本不匹配的问题，此问题暂时没有解决方案。
