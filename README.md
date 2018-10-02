@@ -60,7 +60,7 @@ Calypso软件通过一个安装脚本联网安装。
 2. 重新登陆账号；  
 ![Login](screenshots/login_screenshot.png)
 3. 清空应用商店（Appstore）的所有数据（CLEAR DATA）；  
-<img src="screenshots/settings_screenshot.png" width="256" />  
+<img src="screenshots/settings_screenshot.png" width="256"/>  
 ![Settings](screenshots/settings_apps_screenshot.png)
 ![App list](screenshots/settings_manage_all_apps_screenshot.png)
 ![App list](screenshots/settings_manage_all_apps_all_appstore_screenshot.png)
