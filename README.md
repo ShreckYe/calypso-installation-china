@@ -53,14 +53,14 @@ Calypso软件通过一个安装脚本联网安装。
 解决方案：用美国亚马逊账号登陆并清空应用商店数据。  
 解决步骤：
 1. 注册一个亚马逊账号，在选择国家的时候选择美国（United States）；或着您可以联系ReadyAI，获取info@readyai.com登陆账号；  
-![Settings](screenshots/settings_screenshot.png | width=256)
+![Settings](screenshots/settings_screenshot.png)
 ![Account](screenshots/account_screenshot.png)
 ![Select country](screenshots/register_select_country_screenshot.png)
 ![Country selected](screenshots/register_select_country_2_screenshot.png)
 2. 重新登陆账号；  
 ![Login](screenshots/login_screenshot.png)
 3. 清空应用商店（Appstore）的所有数据（CLEAR DATA）；  
-![Settings](screenshots/settings_screenshot.png)
+<img src="screenshots/settings_screenshot.png" width="256">Settings<img/>
 ![Settings](screenshots/settings_apps_screenshot.png)
 ![App list](screenshots/settings_manage_all_apps_screenshot.png)
 ![App list](screenshots/settings_manage_all_apps_all_appstore_screenshot.png)
