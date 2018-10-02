@@ -53,7 +53,7 @@ Calypso软件通过一个安装脚本联网安装。
 解决方案：用美国亚马逊账号登陆并清空应用商店数据。  
 解决步骤：
 1. 注册一个亚马逊账号，在选择国家的时候选择美国（United States）；或着您可以联系ReadyAI，获取info@readyai.com登陆账号；  
-![Settings](screenshots/settings_screenshot.png)
+![Settings](screenshots/settings_screenshot.png | width=256)
 ![Account](screenshots/account_screenshot.png)
 ![Select country](screenshots/register_select_country_screenshot.png)
 ![Country selected](screenshots/register_select_country_2_screenshot.png)
