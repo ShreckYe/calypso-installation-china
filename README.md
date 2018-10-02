@@ -11,6 +11,12 @@
 [修改版安装脚本下载](https://raw.githubusercontent.com/ShreckYe/calypso-installation-china/master/run-calypso-installer-china-with-pause.zip)
 ### 安装常见问题及解决方案
 若脚本在安装过程中输出红字，说明有一些组件安装不成功，请对照以下问题及解决方案解决。
+#### 脚本无法创建快捷方式
+在Windows 10以前版本的系统中，安装脚本可能无法创建快捷方式，对于这种情况，手动创建快捷方式即可。
+
+解决方案：手动创建快捷方式。
+1. 将“C:\Users\*用户名*\AppData\Local\Calypso\windows”中“*用户名*”替换为您的Windows用户名得到安装路径，若不知道用户名请尝试Administrator；
+2. 在文件浏览器中输入安装路径并回车进入文件夹，右键点击Calypso.cmd选择创建桌面快捷方式。
 #### ADB
 若在Kindle Fire平板连接上后，开启Calypso时出现“”，则说明Android的ADB没有正常启动，造成这种情况的原因一般是ADB的端口被其他应用程序占用了，这些应用程序一般是同样可以连接Android手机的手机管家类软件。
 
