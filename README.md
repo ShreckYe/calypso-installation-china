@@ -36,7 +36,7 @@
 
 解决方案：下载Kindle驱动程序并安装。
 解决步骤：
-1. 下载Kindle驱动安装程序“”；
+1. 下载Kindle驱动安装程序“”；  
 [Kindle驱动原版下载地址](https://s3.amazonaws.com/android-sdk-manager/redist/kindle_fire_usb_driver.zip)  
 [Kindle驱动本GitHub仓库下载地址](https://raw.githubusercontent.com/ShreckYe/calypso-installation-china/master/kindle_fire_usb_driver.zip)
 2. 解压并右键以管理员运行“kindle_fire_usb_driver.zip”安装驱动。
