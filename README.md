@@ -52,8 +52,8 @@ Calypso软件通过一个安装脚本联网安装。
 
 解决方案：下载Android platform tools并解压安装。  
 解决步骤：
-1. 下载压缩包“platform-tools-latest-windows.zip”；
-[Android platform tools原版下载地址](https://cloud.wholerengroup.com/external/directly/ReadyAI/platform-tools-latest-windows.zip)
+1. 下载压缩包“platform-tools-latest-windows.zip”；  
+[Android platform tools原版下载地址](https://cloud.wholerengroup.com/external/directly/ReadyAI/platform-tools-latest-windows.zip)  
 [Android platform tools本GitHub仓库下载地址](https://raw.githubusercontent.com/ShreckYe/calypso-installation-china/master/platform-tools-latest-windows.zip)
 2. 将“C:\Users\ 用户名 \AppData\Local\Android”中“用户名”替换为您的Windows用户名得到安装路径，若不知道用户名请尝试Administrator；
 3. 将压缩包中的“platform-tools”文件夹解压到上述路径。
