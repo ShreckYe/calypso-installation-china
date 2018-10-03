@@ -47,6 +47,16 @@ Calypso软件通过一个安装脚本联网安装。
 [Kindle驱动原版下载地址](https://s3.amazonaws.com/android-sdk-manager/redist/kindle_fire_usb_driver.zip)  
 [Kindle驱动本GitHub仓库下载地址](https://raw.githubusercontent.com/ShreckYe/calypso-installation-china/master/kindle_fire_usb_driver.zip)
 2. 解压并右键以管理员运行“kindle_fire_usb_driver.zip”安装驱动。
+#### ADB安装失败
+若Calyspo启动后显示未检测到连接的设备，且上述Kindle驱动已经安装，则说明很有可能是ADB没有正确安装。
+
+解决方案：下载Android platform tools并解压安装。  
+解决步骤：
+1. 下载压缩包“platform-tools-latest-windows.zip”；
+[Android platform tools原版下载地址](https://cloud.wholerengroup.com/external/directly/ReadyAI/platform-tools-latest-windows.zip)
+[Android platform tools本GitHub仓库下载地址](https://raw.githubusercontent.com/ShreckYe/calypso-installation-china/master/platform-tools-latest-windows.zip)
+2. 将“C:\Users\ 用户名 \AppData\Local\Android”中“用户名”替换为您的Windows用户名得到安装路径，若不知道用户名请尝试Administrator；
+3. 将压缩包中的“platform-tools”文件夹解压到上述路径。
 #### 无法在应用商店中找到Cozmo
 若在亚马逊应用商店（Appstore）中无法找到Cozmo应用程序，则说明您的登陆的亚马逊账号为中国区的账号，中国区账号无法下载Cozmo应用程序。
 
