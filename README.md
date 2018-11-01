@@ -18,7 +18,7 @@ Calypso软件通过一个安装脚本联网安装。
 
 解决方案：手动创建快捷方式。  
 解决步骤：  
-1. 将“C:\Users\ *用户名* \AppData\Local\Calypso\windows”中“*用户名*”替换为您的Windows用户名得到安装路径，若不知道用户名请尝试Administrator；
+1. 将“C:\Users\*用户名*\AppData\Local\Calypso\windows”中“*用户名*”替换为您的Windows用户名得到安装路径，若不知道用户名请尝试Administrator；
 2. 在文件浏览器中输入安装路径并回车进入文件夹，右键点击“Calypso.cmd”选择创建桌面快捷方式。  
 ![Create Calypso shortchut](screenshots/create_Calypso_shortcut.png)
 #### 软件启动后不自动打开浏览器窗口
