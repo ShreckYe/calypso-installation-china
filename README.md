@@ -80,5 +80,15 @@ Calypso软件通过一个安装脚本联网安装。
 ## 更新
 更新操作与安装操作相同，运行“run-calypso-installer-china.bat”脚本即可。
 ### 更新常见问题及解决方案
-#### Mac系统下更新不成功
-Mac系统可能出现更新后启动Calypso并连接平板仍然显示Cozmo版本不匹配的问题，此问题暂时没有解决方案。
+#### Mac系统下显示Cozmo版本不匹配，更新不成功
+Mac系统可能出现更新后启动Calypso并连接平板仍然显示Cozmo版本不匹配的问题，这通常是由于Python的cozmo包无法更新造成的。
+
+解决方案：手动更新Cozmo包。
+解决步骤：
+1. 打开终端（Terminal）；
+2. 输入以下命令并等待命令执行完毕。
+```sh
+cd /Applications/Calypso.app/Contents/Resources/Python
+./python -m pip install --upgrade cozmo
+```
+
